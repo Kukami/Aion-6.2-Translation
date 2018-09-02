@@ -11,6 +11,6 @@ Step 1: Click the Releases button
 
 Step 2: Download the latest "Data.pak" file.
 
-Step 3: Copy this file to "(your installation path)\aion6\l10n\rus\data" and overwrite.
+Step 3: Copy this file to "(your installation path)\l10n\rus\data" and overwrite.
 
 The default path for GameCoast Aion is C:\Program Files\GameCoast Games\aion6"
