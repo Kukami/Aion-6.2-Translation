@@ -3,12 +3,10 @@ This is an english translation for the 6.2 server of GameCoast Aion, but it migh
 
 If anything is wrong with the translation you can open an issue or make a pull request. I didn't test the translation for the class selection quests, so please notify me if it's broken.
 
+You can use this tool https://github.com/Trustboi/aion-lang-patch to reapply the patch if GameCoast did an update.
+
 # Install
 If you already have the 6.0 translation by lmfaoown you should uninstall it cause it may interfere with these files.
-
-You can use this tool https://github.com/Trustboi/aion-lang-patch to apply the patch to your game automatically.
-
-If you want to install it manually follow the below steps:
 
 Step 1: Click the Releases button
 <img src="https://i.imgur.com/L2e5FWz.png" width="990"/>
