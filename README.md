@@ -6,6 +6,10 @@ If anything is wrong with the translation you can open an issue or make a pull r
 # Install
 If you already have the 6.0 translation by lmfaoown you should uninstall it cause it may interfere with these files.
 
+You can use this tool https://github.com/Trustboi/aion-lang-patch to apply the patch to your game automatically.
+
+If you want to install it manually follow the below steps:
+
 Step 1: Click the Releases button
 <img src="https://i.imgur.com/L2e5FWz.png" width="990"/>
 
