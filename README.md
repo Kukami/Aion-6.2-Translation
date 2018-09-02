@@ -11,7 +11,7 @@ If you already have the 6.0 translation by lmfaoown you should uninstall it caus
 Step 1: Click the Releases button
 <img src="https://i.imgur.com/L2e5FWz.png" width="990"/>
 
-Step 2: Download the latest "Data.pak" file.
+Step 2: Download the latest "Data.pak" file. (You don't need sources or anything else)
 
 Step 3: Copy this file to "(your installation path)\l10n\rus\data" and overwrite.
 
